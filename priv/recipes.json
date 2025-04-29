@@ -1,0 +1,5 @@
+[
+  { "materials": ["🪨", "🔥"], "result": "🧱" },
+  { "materials": ["🌳", "🪓"], "result": "🪵" },
+  { "materials": ["💧", "❄️"], "result": "🧊" }
+]
